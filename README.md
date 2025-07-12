@@ -1,11 +1,12 @@
 <!-- Banner opcional -->
+<!-- Banner -->
 <p align="center">
-  <img src="[https://alf.cl/wp-content/uploads/2025/06/banner-alfcl.png](https://alf.cl/wp-content/uploads/2025/03/logo.webp)" alt="Banner AlfCl" width="800" />
+  <img src="https://alf.cl/wp-content/uploads/2025/03/logo.webp" alt="Banner AlfCl" width="800" />
 </p>
 
 <!-- Avatar -->
 <p align="center">
-  <img src="hhttps://avatars.githubusercontent.com/u/34005904?v=4" alt="Avatar" width="150" style="border-radius:50%;" />
+  <img src="https://avatars.githubusercontent.com/u/34005904?v=4" alt="Avatar AlfCl" width="150" style="border-radius:50%;" />
 </p>
 <!-- Título -->
 <h1 align="center">👋 ¡Hola! Soy Gonzalo “AlfCl” Loyola</h1>
