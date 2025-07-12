@@ -34,6 +34,40 @@
 
 ---
 
+## 💼 Experiencia Profesional
+
+- **NeoNetwork**  
+  *Analista Técnico Comercial TI* (Mayo 2022 – Presente)  
+  Soporte a clientes, levantamiento de requerimientos y programación de herramientas a medida. Administración de WHMCS/WHM, desarrollo en PHP/MySQL y configuración de servicios.
+
+- **2080 Servicios**  
+  *Desarrollador Web* (Ago 2023 – Dic 2023)  
+  Backend en PHP y Bash, orquestación con Docker y control de versiones con Git. Diseñaste e implementaste soluciones escalables.
+
+- **Doña Rosa**  
+  *Dueño y Administrador* (May 2017 – Ene 2023)  
+  Gestión de servidores, sitio web y G-Suite; implementación/administración de Odoo; ventas y operaciones del negocio familiar.
+
+- **Conpax Maquinaria**  
+  *Encargado de Tecnología* (Sep 2020 – Ene 2022)  
+  Soporte técnico remoto, inventario de herramientas y optimización de procesos, mejorando eficiencia y satisfacción del cliente.
+
+- **TOTALPACK**  
+  *Analista de Mesa de Ayuda* (Dic 2017 – May 2018)  
+  Atención de incidencias, instalación de tótems y resolución de casos complejos, incluyendo bases de datos.
+
+- **Caja Los Andes**  
+  *Soporte Tecnológico de Riesgo* (Sep 2015 – Jun 2017)  
+  Desarrollo de herramientas internas, administración de servidores y automatización de procesos en Excel.
+
+- **Küpfer Hnos. S.A.**  
+  *Práctica Profesional* (Jun 2012 – Ago 2012)  
+  Creación de sitio web interno, diseño de material gráfico y edición de video.
+
+- **Liberty Security**  
+  *Analista de Soporte Técnico* (Mar 2011 – May 2011)  
+  Mantenimiento hardware/software y actualización de antivirus en diversas sedes de Santiago.
+
 
 <!-- Tech Stack -->
 <!-- Tech Stack -->
