@@ -5,7 +5,7 @@
 
 <!-- Avatar -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/12345678?v=4" alt="Avatar" width="150" style="border-radius:50%;" />
+  <img src="hhttps://avatars.githubusercontent.com/u/34005904?v=4" alt="Avatar" width="150" style="border-radius:50%;" />
 </p>
 <!-- Título -->
 <h1 align="center">👋 ¡Hola! Soy Gonzalo “AlfCl” Loyola</h1>
