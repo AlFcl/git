@@ -5,21 +5,17 @@
 </p>
 
 
-<!-- Título -->
-<h1 align="center">👋 ¡Hola! Soy Gonzalo “AlfCl” Loyola</h1>
+<p align="center">👋 Soy Gonzalo “AlfCl” Loyola, <strong>Diseñador y Programador Multimedia</strong>, además de <strong>Full-Stack Developer  con más de 10 años de experiencia en:</p>
 
-<!-- Subtítulo pequeño -->
-<p align="center"><em>Full-Stack Developer & DevOps Enthusiast en <a href="https://kombi.cl">kombi.cl</a></em></p>
+<ul>
+  <li>Desarrollo web (PHP, JavaScript, WordPress)</li>
+  <li>Administración de sistemas (WHM, WHMCS, Linux, Docker)</li>
+  <li>Soluciones de radio streaming con AzuraCast</li>
+  <li>Plugins y CMS en WordPress y Odoo</li>
+</ul>
 
-<!-- Badges centrados -->
-<p align="center">
-  <a href="https://alf.cl"><img src="https://img.shields.io/badge/🌐-alf.cl-0af?style=flat&logo=internet-explorer&logoColor=white" alt="Web" /></a>
-  <a href="https://github.com/alfcl"><img src="https://img.shields.io/badge/🐙-alfcl-000?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://twitter.com/alfcl"><img src="https://img.shields.io/badge/🐦-@alfcl-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="mailto:contacto@kombi.cl"><img src="https://img.shields.io/badge/✉️-contacto@kombi.cl-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+<p align="center">Actualmente gestiono <a href="https://kombi.cl">kombi.cl</a>, mi proyecto personal de consultoría informática y marketing digital.</p>
 
-<hr />
 
 ---
 
