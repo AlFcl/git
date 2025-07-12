@@ -34,11 +34,16 @@
 
 ## 🚀 Proyectos Destacados
 
-| Proyecto | Descripción | Tech |
-| -------- | ----------- | ---- |
-| [cmscheck](https://github.com/alfcl/cmscheck) | Scripts y tests en Python para auditoría de CMS | Python |
-| [kombi.dev](https://github.com/alfcl/kombicl) | Sitio corporativo en Django/BeTheme | Django · BeTheme |
-| [kparrilla](https://github.com/alfcl/kparrilla) | Plugin WordPress de parrilla radial por días | PHP · WP |
-| [KPlayer](https://github.com/alfcl/KPlayer) | Reproductor streaming personalizado AzuraCast | JavaScript |
+| Proyecto                                           | Descripción                                           | Tech                |
+|----------------------------------------------------|-------------------------------------------------------|---------------------|
+| [ictuesantacruz.cl](https://ictuesantacruz.cl)     | Sitio institucional de la iglesia ICTUE Santa Cruz    | Ghost · HTML/CSS    |
+| [consultora-contreras.cl](https://consultora-contreras.cl) | Web corporativa de Consultora Contreras             | BeTheme · WordPress |
+| [aurisconstructora.cl](https://aurisconstructora.cl)| Sitio de servicios para constructora Auris            | BeTheme · WordPress |
+| [gr7.services](https://gr7.services)               | Web de multiservicios: videovigilancia, energía, redes| HTML/CSS · JS       |
+| [radiomagdalena.cl](https://radiomagdalena.cl)      | Portal de estación de radio: programación y streaming  | BeTheme · AzuraCast |
+| [cmscheck](https://github.com/alfcl/cmscheck)      | Tests de seguridad y auditoría de CMS en Python       | Python              |
+| [kparrilla](https://github.com/alfcl/kparrilla)    | Plugin WP para parrilla radial semanal                | PHP · WordPress     |
+| [KPlayer](https://github.com/alfcl/KPlayer)        | Reproductor streaming personalizado para AzuraCast    | JavaScript          |
+
 
 ---
