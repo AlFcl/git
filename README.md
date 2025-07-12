@@ -37,7 +37,7 @@
 ## 💼 Experiencia Profesional
 
 - **NeoNetwork**  
-  *Analista Técnico Comercial TI* (Mayo 2022 – Presente)  
+  *Analista Técnico Comercial TI* (Mayo 2022 – MAyo  2025)  
   Soporte a clientes, levantamiento de requerimientos y programación de herramientas a medida. Administración de WHMCS/WHM, desarrollo en PHP/MySQL y configuración de servicios.
 
 - **2080 Servicios**  
