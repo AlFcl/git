@@ -1,10 +1,28 @@
-<h1>👋 ¡Hola! Soy Gonzalo “AlfCl” Loyola</h1>
+<!-- Banner opcional -->
+<p align="center">
+  <img src="https://alf.cl/wp-content/uploads/2025/06/banner-alfcl.png" alt="Banner AlfCl" width="800" />
+</p>
 
-<!-- Enlaces de cabecera -->
-[![Web](https://img.shields.io/badge/-alf.cl-0af?style=flat&logo=internet-explorer&logoColor=white)](https://alf.cl)  
-[![GitHub](https://img.shields.io/badge/-alfcl-000?style=flat&logo=github&logoColor=white)](https://github.com/alfcl)  
-[![X](https://img.shields.io/badge/-@alfcl-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/alfcl)  
-[![Email](https://img.shields.io/badge/-contacto@kombi.cl-D14836?style=flat&logo=gmail&logoColor=white)](mailto:contacto@kombi.cl)  
+<!-- Avatar -->
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/12345678?v=4" alt="Avatar" width="150" style="border-radius:50%;" />
+</p>
+
+<!-- Título -->
+<h1 align="center">👋 ¡Hola! Soy Gonzalo “AlfCl” Loyola</h1>
+
+<!-- Subtítulo pequeño -->
+<p align="center"><em>Full-Stack Developer & DevOps Enthusiast en <a href="https://kombi.cl">kombi.cl</a></em></p>
+
+<!-- Badges centrados -->
+<p align="center">
+  <a href="https://alf.cl"><img src="https://img.shields.io/badge/🌐-alf.cl-0af?style=flat&logo=internet-explorer&logoColor=white" alt="Web" /></a>
+  <a href="https://github.com/alfcl"><img src="https://img.shields.io/badge/🐙-alfcl-000?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://twitter.com/alfcl"><img src="https://img.shields.io/badge/🐦-@alfcl-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="mailto:contacto@kombi.cl"><img src="https://img.shields.io/badge/✉️-contacto@kombi.cl-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+<hr />
 
 ---
 
