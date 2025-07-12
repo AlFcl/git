@@ -5,7 +5,7 @@
 </p>
 
 
-<p align="center">👋 Soy Gonzalo “AlfCl” Loyola, <strong>Diseñador y Programador Multimedia</strong>, además de <strong>Full-Stack Developer  con más de 10 años de experiencia en:</p>
+<p align="center">👋 Soy Gonzalo Loyola, <strong>Diseñador y Programador Multimedia</strong>, además de <strong>Full-Stack Developer  con más de 10 años de experiencia en:</p>
 
 <ul>
   <li>Desarrollo web (PHP, JavaScript, WordPress)</li>
