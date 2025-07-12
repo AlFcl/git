@@ -19,14 +19,6 @@
 
 ---
 
-<p>Soy <strong>Full-Stack Developer</strong> y <strong>Analista Técnico Comercial TI</strong> con más de 5 años de experiencia en:</p>
-<ul>
-  <li>Desarrollo web (PHP, JavaScript, WordPress)</li>
-  <li>Administración de sistemas (WHM, WHMCS, Linux, Docker)</li>
-  <li>Soluciones de radio streaming con <strong>AzuraCast</strong></li>
-  <li>Plugins y CMS en <strong>WordPress</strong> y <strong>Odoo</strong></li>
-</ul>
-<p>Actualmente en <a href="https://kombi.cl">kombi.cl</a></p>
 
 ---
 
