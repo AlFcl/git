@@ -36,17 +36,26 @@
 
 
 <!-- Tech Stack -->
+<!-- Tech Stack -->
 <h2 align="center">🛠 Tech Stack</h2>
 <p align="center">
-  <img alt="PHP"       src="https://img.shields.io/badge/PHP-777BB4?logo=php&style=for-the-badge" height="40" style="margin:5px;" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&style=for-the-badge" height="40" style="margin:5px;" />
-  <img alt="Docker"    src="https://img.shields.io/badge/Docker-2496ED?logo=docker&style=for-the-badge" height="40" style="margin:5px;" />
-  <img alt="MySQL"     src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&style=for-the-badge" height="40" style="margin:5px;" />
-  <img alt="Linux"     src="https://img.shields.io/badge/Linux-FCC624?logo=linux&style=for-the-badge" height="40" style="margin:5px;" />
-  <img alt="Bash"      src="https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&style=for-the-badge" height="40" style="margin:5px;" />
-  <img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&style=for-the-badge" height="40" style="margin:5px;" />
-  <img alt="Git"       src="https://img.shields.io/badge/Git-F05032?logo=git&style=for-the-badge" height="40" style="margin:5px;" />
+  <img alt="Python"        src="https://img.shields.io/badge/Python-3776AB?logo=python&style=for-the-badge"        height="40" style="margin:5px;" />
+  <img alt="Odoo"          src="https://img.shields.io/badge/Odoo-7A0928?logo=odoo&style=for-the-badge"             height="40" style="margin:5px;" />
+  <img alt="Ghost"         src="https://img.shields.io/badge/Ghost-000000?logo=ghost&style=for-the-badge"            height="40" style="margin:5px;" />
+  <img alt="Shopify"       src="https://img.shields.io/badge/Shopify-96BF48?logo=shopify&style=for-the-badge"        height="40" style="margin:5px;" />
+  <img alt="Bsale"         src="https://img.shields.io/badge/Bsale-4B4B4B?style=for-the-badge"                       height="40" style="margin:5px;" />
+  <img alt="PHP"           src="https://img.shields.io/badge/PHP-777BB4?logo=php&style=for-the-badge"                height="40" style="margin:5px;" />
+  <img alt="JavaScript"    src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&style=for-the-badge" height="40" style="margin:5px;" />
+  <img alt="Docker"        src="https://img.shields.io/badge/Docker-2496ED?logo=docker&style=for-the-badge"          height="40" style="margin:5px;" />
+  <img alt="MySQL"         src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&style=for-the-badge"             height="40" style="margin:5px;" />
+  <img alt="Linux"         src="https://img.shields.io/badge/Linux-FCC624?logo=linux&style=for-the-badge"            height="40" style="margin:5px;" />
+  <img alt="Bash"          src="https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&style=for-the-badge"           height="40" style="margin:5px;" />
+  <img alt="WordPress"     src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&style=for-the-badge"   height="40" style="margin:5px;" />
+  <img alt="Git"           src="https://img.shields.io/badge/Git-F05032?logo=git&style=for-the-badge"               height="40" style="margin:5px;" />
+  <img alt="Soporte Remoto" src="https://img.shields.io/badge/Soporte_Remoto-lightgrey?style=for-the-badge"       height="40" style="margin:5px;" />
+  <img alt="Consultoría"    src="https://img.shields.io/badge/Consultoría-lightgrey?style=for-the-badge"          height="40" style="margin:5px;" />
 </p>
+
 
 
 ---
