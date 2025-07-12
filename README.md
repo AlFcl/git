@@ -19,9 +19,6 @@
 
 ---
 
-
----
-
 ## 💼 Experiencia Profesional
 
 - **NeoNetwork**  
