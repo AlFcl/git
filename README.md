@@ -42,9 +42,3 @@
 | [KPlayer](https://github.com/alfcl/KPlayer) | Reproductor streaming personalizado AzuraCast | JavaScript |
 
 ---
-
-## 📈 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alfcl&show_icons=true&theme=dark" alt="Estadísticas de GitHub" />
-</p>
